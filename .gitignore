@@ -1,0 +1,24 @@
+Python
+
+pycache/
+*.py[cod]
+*$py.class
+
+Virtual Environment
+
+venv/
+env/
+.env
+
+Data (Optional: ignore if data is huge, but keep for this small sample)
+
+data/
+
+IDE settings
+
+.vscode/
+.idea/
+
+Streamlit
+
+.streamlit/
