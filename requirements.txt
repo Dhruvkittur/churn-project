@@ -5,5 +5,4 @@ joblib
 streamlit
 matplotlib
 seaborn
-django
-gunicorn
+
